@@ -1,0 +1,4 @@
+pyAesCrypt
+argpaser
+secrets
+alive_progress
